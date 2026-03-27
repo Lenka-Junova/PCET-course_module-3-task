@@ -1,5 +1,5 @@
 # PCET-course_module-3-task
-Task from module 3 from course Certified Entry-Level Tester with Python.
+Task from module 3 from course Python for Testing 101.
 
 Course: Python for Testing 101 (PT101), Python Institute, Module 3 Project
 
